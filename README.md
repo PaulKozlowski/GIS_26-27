@@ -1,4 +1,4 @@
-## Beispiel 1
+## QGIS Karte
 ## EP1
 Monitoring Soziale Stadtentwicklung
-![MSS_2025.png](https://github.com/PaulKozlowski/GIS_26-27/blob/main/MSS_2025.png?raw=true)
+![MSS2_2025.png](https://github.com/PaulKozlowski/GIS_26-27/blob/main/MSS2_2025.png?raw=true)
